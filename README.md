@@ -13,4 +13,4 @@ AMEX, MASTERCARD, VISA, or INVALID.
 
 To run program (VS Code, Windows)
 simply press Run button near top right corner.
-must have CodeRunner extension installed
+Must have CodeRunner extension installed.
